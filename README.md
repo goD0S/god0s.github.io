@@ -1,1 +1,1 @@
-sry i am still learning VuePress so there is no context here at now :)
+sry i am still learning VuePress so there is no content here at now :)
