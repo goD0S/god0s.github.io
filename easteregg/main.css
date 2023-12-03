@@ -1,0 +1,16 @@
+p {
+    font-family: "微软雅黑", sans-serif;
+    font-size: 16px;
+}
+
+#tips{
+    font-size: 4px;
+    color: coral;
+}
+
+body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
